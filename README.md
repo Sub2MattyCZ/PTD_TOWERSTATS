@@ -38,3 +38,44 @@
             }
         ]
     },
+        "The Glitched": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://103032877502508",
+        "Rarity": "Apex",
+        "PlacePrice": 99999,
+        "Max": 1,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 75000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 119999,
+                "Range": 28,
+                "Damage": 100000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 139999,
+                "Range": 32,
+                "Damage": 125000,
+                "Cooldown": 8
+            },
+            {
+                "Price": 159999,
+                "Range": 35,
+                "Damage": 155000,
+                "Cooldown": 8
+            }
+        ]
+    }
+}
