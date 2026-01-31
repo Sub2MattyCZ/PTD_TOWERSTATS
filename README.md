@@ -1,7 +1,7 @@
 {
     "Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16620053009",
+        "Image": "rbxassetid://86379323741149",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 8,
@@ -40,7 +40,7 @@
     },
     "Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16620303027",
+        "Image": "rbxassetid://104948837211104",
         "Rarity": "Uncommon",
         "PlacePrice": 500,
         "Max": 3,
@@ -78,7 +78,7 @@
     },
     "Foxy": {
         "Type": "Melee",
-        "Image": "rbxassetid://16620218689",
+        "Image": "rbxassetid://85884662201029",
         "Rarity": "Rare",
         "PlacePrice": 600,
         "Offset": 0.65,
@@ -117,7 +117,7 @@
     },
     "Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16620268084",
+        "Image": "rbxassetid://73411586720928",
         "Rarity": "Mythic",
         "PlacePrice": 7500,
         "Max": 3,
@@ -156,7 +156,7 @@
     },
     "Withered Chica": {
         "Type": "Single",
-        "Image": "rbxassetid://16632209265",
+        "Image": "rbxassetid://99419505332112",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 2,
@@ -233,7 +233,7 @@
     },
     "Withered Freddy": {
         "Type": "Continuous",
-        "Image": "rbxassetid://16632239120",
+        "Image": "rbxassetid://71835746000672",
         "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Max": 3,
@@ -271,7 +271,7 @@
     },
     "Withered Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://16632217188",
+        "Image": "rbxassetid://104588577705872",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 3,
@@ -310,7 +310,7 @@
     },
     "Shadow Bonnie": {
         "Type": "AOE",
-        "Image": "rbxassetid://16781197179",
+        "Image": "rbxassetid://102679635624829",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Max": 2,
@@ -348,7 +348,7 @@
     },
     "Toy Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16781095520",
+        "Image": "rbxassetid://97599303089447",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
@@ -387,7 +387,7 @@
     },
     "Toy Bonnie": {
         "Type": "Dual",
-        "Image": "rbxassetid://16780983603",
+        "Image": "rbxassetid://88832732735147",
         "Rarity": "Epic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -425,7 +425,7 @@
     },
     "Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781017510",
+        "Image": "rbxassetid://129647383475053",
         "Rarity": "Epic",
         "PlacePrice": 1250,
         "Max": 2,
@@ -579,7 +579,7 @@
     },
     "Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://17629034232",
+        "Image": "rbxassetid://91423337670713",
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
@@ -656,7 +656,7 @@
     },
     "Withered Golden Freddy": {
         "Type": "Single",
-        "Image": "rbxassetid://16781122207",
+        "Image": "rbxassetid://104247336409213",
         "Rarity": "Secret",
         "PlacePrice": 3000,
         "Max": 4,
@@ -694,7 +694,7 @@
     },
     "Endo": {
         "Type": "Support",
-        "Image": "rbxassetid://17851638702",
+        "Image": "rbxassetid://114403958940124",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
