@@ -309,7 +309,7 @@
         ]
     },
     "Shadow Bonnie": {
-        "Type": "AOE",
+        "Type": "The 67 Aoe 676767676767676767",
         "Image": "rbxassetid://102679635624829",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
